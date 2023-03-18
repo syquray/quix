@@ -1,0 +1,1 @@
+<h1>Quix - Shorter code, faster image processing</h1>
